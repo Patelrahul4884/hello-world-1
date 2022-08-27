@@ -4,4 +4,4 @@
 
 <h1> Deplyment through Ansible </h1>
 
-<h1> pushing docker image to docker hub. </h1>
+<h1> Docker integration with Ansible </h1>
